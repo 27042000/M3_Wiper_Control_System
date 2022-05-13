@@ -1,4 +1,21 @@
-
+## Introduction
+In today’s automotive industry, the issue of driver safety and comfort is of great importance. An automatic windshield wiper system is of great aid in such cases. It betters the driving experience and improvises the safety factor of a vehicle by converting the manual windshield wiper system into an automatic system. By taking care of the attentions
+## Swot Analysis
+ #### Advantage
+ * Provide clear vision to driver in rainy season
+ * Help to remove dust and water from wind shield
+ * Easy to operate
+ * 
+ ### Disadvantage 
+ * Regular maintaince required
+ * changing of wiper quarterly
+ * Not fully automatic
+ 
+ 
+ 
+ 
+ 
+ 
 ### 4'W and 1'H
 ##### What 
 Wiper control system.
