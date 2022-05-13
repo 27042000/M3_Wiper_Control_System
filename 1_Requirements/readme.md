@@ -9,7 +9,7 @@ It can be used when there is a need of wiper in the vehicles.
 ##### How
 It work on stm3, Ignition key is attach to the stm32 and as we start stm32 is ready to work and follow the instructions of Key.
 
-### Table
+### Table no : High level Test plan
 | Test ID | Description | Exp I/P| Exp O/P|Test case
 | --- | --- | --- | ---- |-----|
 | T_01 |Ignition key at ACC |User button is pressed & held for 2 sec| Red Led is ON |Pass|
@@ -21,5 +21,6 @@ It work on stm3, Ignition key is attach to the stm32 and as we start stm32 is re
 ### Table no : Low Level test plan
 | Test ID | Description | I/P|  O/P|
 | --- | --- | --- | ---- |
-| L_01 |  When only one switch is closer |1 switch is only closed| Led not blink|
-| L_02| When Potentiometer is set at 0|0v |0 degree|
+| L_01 |  user button press for 2 sec| red Led on| wiper on|
+| L_02| single press the button|Blue,Green,Orange Led glow|Wiper Rotates at different Hz(2,4,&8)|
+| L_03 |  user button press for 2 sec| red Led off wiper off|
