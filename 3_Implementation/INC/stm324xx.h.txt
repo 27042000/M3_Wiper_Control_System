@@ -58,7 +58,7 @@ typedef struct
 	unsigned int LCKR;
 	unsigned int AFRL;
 	unsigned int AFRH;
-} GPIORegDef; 
+} GPIORegDef;
 
 #define GPIOD			((GPIORegDef *) GPIOD_BASE_ADDR)
 #define GPIOA			((GPIORegDef *) GPIOD_BASE_ADDR)
