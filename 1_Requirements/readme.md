@@ -1,5 +1,6 @@
 ## Introduction
 In today’s automotive industry, the issue of driver safety and comfort is of great importance. An automatic windshield wiper system is of great aid in such cases. It betters the driving experience and improvises the safety factor of a vehicle by converting the manual windshield wiper system into an automatic system. By taking care of the attentions
+The automotive industry has spent the last two decades vigorously researching ways to use modern computing and electronic improvements in the development of vehicle safety, dependability, and entertainment technology. With a growing number of distractions, automated rain-sensing wiper systems become an even more tempting feature, as they attempt to reduce the amount of time the driver has take his or her hands off the wheel. Most classic systems can operate at both intermittent and variable speeds. The typical wiper system, on the other hand, necessitates constant driver attention when altering the wiper speed. Traditional windshield wiper speed changes with the passage of time and the speed of the vehicle. Because manual wiper adjustment diverts the driver's attention, it may be a direct cause of accidents.
 ## Swot Analysis
  #### Advantage
  * Provide clear vision to driver in rainy season
